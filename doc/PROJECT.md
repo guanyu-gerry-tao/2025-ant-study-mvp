@@ -82,16 +82,17 @@ ui可以先简单用这样的形式绘制（毕竟是MVP）：
 ## 技术栈
 
 ### 开发工具
-- **IDE**: Xcode
+- **IDE**: Xcode 写 Swift, VSCode 写 React Native
 - **Vibe Coding 工具**: Xcode 的 Claude 或者 ChatGPT，需要简单配置
 - **协作方式**: Xcode Vibe Coding（Live Coding）
 - **版本控制**: GitHub
 
 ### 技术选型
 <!-- 在这里列出需要的技术栈，例如： -->
-- iOS 开发框架: SwiftUI
-- 第三方库：暂无想法
-- 本地数据库（sqlite）
+- iOS 开发框架: SwiftUI / React Native
+- 第三方库：LangChain 管理上下文
+- AI 模型：OpenAI API
+- 本地数据库（sqlite）：存储对话历史、学习路径、知识图谱等
 
 ## 工作流程
 
