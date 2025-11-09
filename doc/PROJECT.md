@@ -41,7 +41,7 @@ Project Ant 采用类似 Git 分支的树状对话结构，由三个核心模块
 
 这里采用一个数学学习的例子来说明深究对话是什么：
 
-![Project Ant 示意图](./PROJECT_res/Diagram.jpg)
+<img src="./PROJECT_res/Diagram.jpg" alt="Project Ant 示意图" width="600">
 
 ## 学习路径可视化示意
 
